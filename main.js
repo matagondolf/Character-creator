@@ -8,7 +8,7 @@ async function init() {
 
   // Example of how to use custom GLB models
   const models = {
-    // head: '/models/head.glb',
+   head: '/models/head.glb',
     // torso: '/models/torso.glb',
     // breasts: '/models/breasts.glb',
     // leftArm: '/models/arm.glb',
